@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi 👋, I'm Yashvi Kanani ✨</h1>
-<h3 align="center">💻 Full Stack Developer | Software Engineering Enthusiast | Tech Explorer from India 🇮🇳</h3>
+<h3 align="center">💻 Full Stack Developer | Software Engineering Enthusiast | Tech Explorer from India</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
